@@ -11,9 +11,17 @@ Welcome to my GitHub. Enjoy!
 - 💭 Planning to work in the tech industry after graduation
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/anniephanm/) or feel free send me an [email](mailto:a5phan@ucsd.edu)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/anniephanm/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+---
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anniephan02)](https://github.com/anniephan02/github-readme-stats)
 
+--- 
+# Thank you
 <!--
 **AnniePhan02/AnniePhan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
