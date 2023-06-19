@@ -4,10 +4,11 @@ Welcome to my GitHub. Enjoy!
 --- 
 **About Me** 
 
-- 3rd year student at [UC San Diego](https://ucsd.edu) studying Computer Science
-- Software Engineering intern at [Qualcomm](https://www.google.com/aclk?sa=l&ai=DChcSEwi-1OTfpdD_AhXwF60GHQpRAAwYABAAGgJwdg&sig=AOD64_2PhhNV0PJLisPrr1ZH7EuKLppDDw&q&adurl&ved=2ahUKEwjai9vfpdD_AhWcKEQIHfo_BvoQ0Qx6BAgIEAE) for Summer 2023
-- Figure skating coach and competitive figure skater during my free  time
-- Planning to work in the tech industry after graduation
+- 📚 3rd year student at [UC San Diego](https://ucsd.edu) studying Computer Science
+- 💻 [Qualcomm](https://www.google.com/aclk?sa=l&ai=DChcSEwi-1OTfpdD_AhXwF60GHQpRAAwYABAAGgJwdg&sig=AOD64_2PhhNV0PJLisPrr1ZH7EuKLppDDw&q&adurl&ved=2ahUKEwjai9vfpdD_AhWcKEQIHfo_BvoQ0Qx6BAgIEAE) Software Engineering intern for Summer 2023
+- 👩🏻‍🏫 CSE Tutor for UC San Diego Computer Science and Engineering Department
+- ⛸ Figure skating coach and competitive figure skater during my free  time
+- 💭 Planning to work in the tech industry after graduation
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/anniephanm/) or feel free send me an [email](mailto:a5phan@ucsd.edu)
 
