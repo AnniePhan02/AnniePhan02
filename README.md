@@ -9,10 +9,17 @@ Welcome to my GitHub. Enjoy!
 
 **About Me** 
 
-- 📚 3rd year student at [UC San Diego](https://ucsd.edu) studying Computer Science
+- 📚 MS CSE student @ [UC San Diego](https://ucsd.edu)
+- 🎓 BS CSE 2024 graduate @ [UC San Diego](https://ucsd.edu)
 - 👩🏻‍🏫 CSE Tutor for UC San Diego Computer Science and Engineering Department
-- ⛸ Figure skating coach and competitive figure skater during my free time
-- 💭 Planning to work in the tech industry after graduation
+- ⛸ Figure Skater in my free time
+- 💭 Looking to work in the tech industry after graduation
+
+**Working Experience**
+- Incoming SWE intern Summer 2025 @ [Viasat](https://www.viasat.com/)
+- Research SWE intern Fall 2024 @ [Georgia Tech Research Institute](https://www.gtri.gatech.edu/)
+- SWE intern Summer 2024 @ [Qualcomm](https://www.qualcomm.com/)
+- SWE intern Summer 2023 @ [Qualcomm](https://www.qualcomm.com/)
 
 **Feel free to send a message**
 
