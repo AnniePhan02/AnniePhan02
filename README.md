@@ -16,7 +16,7 @@ Welcome to my GitHub. Enjoy!
 - 💭 Looking to work in the tech industry after graduation
 
 **Working Experience**
-- Incoming SWE intern Summer 2025 @ [Viasat](https://www.viasat.com/)
+- SWE intern Summer 2025 @ [Viasat](https://www.viasat.com/)
 - Research SWE intern Fall 2024 @ [Georgia Tech Research Institute](https://www.gtri.gatech.edu/)
 - SWE intern Summer 2024 @ [Qualcomm](https://www.qualcomm.com/)
 - SWE intern Summer 2023 @ [Qualcomm](https://www.qualcomm.com/)
