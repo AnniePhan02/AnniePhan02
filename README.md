@@ -9,10 +9,9 @@ Welcome to my GitHub. Enjoy!
 
 **About Me** 
 
-- 📚 MS CSE student @ [UC San Diego](https://ucsd.edu)
+- 📚 MS CSE 2025 graduate @ [UC San Diego](https://ucsd.edu)
 - 🎓 BS CSE 2024 graduate @ [UC San Diego](https://ucsd.edu)
 - 👩🏻‍🏫 CSE Tutor for UC San Diego Computer Science and Engineering Department
-- ⛸ Figure Skater in my free time
 - 💭 Looking to work in the tech industry after graduation
 
 **Working Experience**
@@ -45,10 +44,6 @@ Welcome to my GitHub. Enjoy!
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-
----
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anniephan02)](https://github.com/anniephan02/github-readme-stats)
 
 --- 
 # Thank you
